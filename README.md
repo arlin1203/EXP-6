@@ -9,6 +9,30 @@ THEORY: - LVDT is basically a mutual inductance type transformer with variable c
 
 DIAGRAM:
 CIRCUIT DIAGRAM
+![WhatsApp Image 2025-12-16 at 16 05 55_d7713ae2](https://github.com/user-attachments/assets/c3bddc8e-00ed-47b2-a23b-6f3c52ac1a13)
+
+![WhatsApp Image 2025-12-16 at 16 05 55_0636f56a](https://github.com/user-attachments/assets/22614df4-ad25-4ef9-9995-67ea15c71283)
+
+GRAPH:
+![WhatsApp Image 2025-12-16 at 16 05 55_0c5e34c6](https://github.com/user-attachments/assets/5923b380-9734-40d7-987d-0aa3b2e006c7)
+
+![WhatsApp Image 2025-12-16 at 16 05 55_751df2ae](https://github.com/user-attachments/assets/7a402944-fac2-470f-a669-fbc988de8aab)
+
+WAVE FORM:
+![WhatsApp Image 2025-12-16 at 16 05 55_a2fe1f2c](https://github.com/user-attachments/assets/44c132d6-b473-4b95-a706-34158c0b074f)
+
+![WhatsApp Image 2025-12-16 at 16 05 55_fa43cd97](https://github.com/user-attachments/assets/dc935eb6-f528-46b5-b907-8b3b99cac608)
+
+
+
+MODEL GRAPH:
+POSITIVE DISPLACEMENT:
+![WhatsApp Image 2025-12-16 at 16 16 07_ddd83650](https://github.com/user-attachments/assets/082eee27-811f-4ddb-9cca-3bb7b53315d2)
+
+NEGATIVE DISPLACEMENT:
+![WhatsApp Image 2025-12-16 at 16 16 08_5b1907ea](https://github.com/user-attachments/assets/16ef3b26-c07b-43f0-bde3-cd436ceb0595)
+
+
 PROCEDURE: -
 I. Connect the multimeter at the output of kit..
 2. Set the range to a maximum value of 10 mm.
@@ -18,6 +42,8 @@ I. Connect the multimeter at the output of kit..
 
 
 OBSERVATION TABLE
+![WhatsApp Image 2025-12-16 at 16 12 56_3d3b99a8](https://github.com/user-attachments/assets/ec711328-d4f1-4b13-b8f0-8a7aabb1df1b)
+
 
 PRECAUTION: -
 1. The values on the multimeter should be carefully noted.
